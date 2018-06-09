@@ -1,18 +1,18 @@
 body {
-    background-color:white;
+    background-color:#E0E0E0;
     
   }
   
   h1 {
     text-align:center;
     font-size:80px;
-    background-color:#B8BBBD;
+    background-color:#808080;
     color:white;
     font-family:italic;
   }
   
   h2{
-    background-color:#B8BBBD;
+    background-color:#808080;
     color:white;
     font-size:33px;
     font-style:italic
@@ -25,7 +25,7 @@ body {
     padding-top:20px;
     padding-bottom:20px;
     font-size:20px;
-    background-color:#A469B0;
+    background-color:#C0C0C0;
   }
   
   p{
@@ -35,7 +35,7 @@ body {
     padding-bottom:20px;
     padding-left:20px;
     font-size:20px;
-    background-color: #A469B0;
+    background-color: #C0C0C0;
     
   }
 
