@@ -1,2 +1,2 @@
 # hyf-html-css
-https://github.com/marwanaboudaoud/hyf-html-css.git
+ https://marwanaboudaoud.github.io/hyf-html-css/week1/
