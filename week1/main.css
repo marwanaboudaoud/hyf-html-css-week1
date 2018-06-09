@@ -43,9 +43,9 @@ body {
 
   #photo1 {
     margin-left:1100px;
-    margin-bottom:-180px;
-    margin-top:-20px;
-    padding-bottom: 35px; 
+    margin-bottom:-190px;
+    margin-top: -18px;
+    padding-bottom: 50px; 
     padding-left: 150px;
     width:200px;
     height:170px;
@@ -60,12 +60,14 @@ body {
   }
 
   #photo3{
-    display: block;
+    display:block;
     float: left;
-    width:290px;
-    height:190px;
-    margin-right:50px;
-    margin-top: -8px;
+    padding-top: 5px;
+    margin-right: 30px;
+    width:300px;
+    height:200px;
+    
+    margin-top: -18px;
   }
   #who-am-i-1{
     margin-top:-20px;
