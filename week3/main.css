@@ -2,7 +2,7 @@
 
 body {
 margin: 0;
-background-color: rgb(198, 199, 198);
+background-color: rgb(231, 231, 231);
 }
 
 
@@ -162,6 +162,7 @@ ul {
   }
   
 #menu{
+    background-color:white;
 
     overflow: hidden;
 }
@@ -245,17 +246,20 @@ h2{
     padding-left: 80px;
     font-family:fantasy;
     font-size: 30px;
+    
 }
 h3{
 
    font-size: 18px;
    font-weight: bold;
+   
 }
 
 
 #news{
 
     overflow: hidden;
+  
 }
 
 #news .news-item{
@@ -311,13 +315,14 @@ h3{
     border: 3px solid grey;
     font-size: 20px;
     height: 300px;
-    margin: 100px;
+    margin: 150px;
     width:28%;
     text-align: center;
     padding-bottom: 100px;
     padding-top: 0px;
     overflow: hidden;
     line-height: 30px;
+    background-color: white;
     
   
   }
@@ -343,6 +348,10 @@ h3{
     
   }
 
+   #white{
+
+    background-color: white;
+   }
 
   #Service{
 
