@@ -1,10 +1,8 @@
 
-
 body {
 margin: 0;
 background-color: rgb(231, 231, 231);
 }
-
 
 
 #rijksoverheid{
@@ -14,7 +12,6 @@ padding-left: 750px;
 }
 
 .container{
-
     width: 95%;
     margin: 0 auto;
 }
@@ -22,8 +19,8 @@ padding-left: 750px;
 header {
 background-color:#3B5998;
 color: white;    
-
 }
+
 
 header::after {
 content: "";
@@ -33,7 +30,9 @@ clear:both;
 } 
 
 nav {
+
     float: right;
+
 }
 
 nav ul {
@@ -88,7 +87,7 @@ nav a:hover::before {
 
 .home-list li {
    
-    margin: 0;
+    
     padding: 5px;
     list-style: none;
     font-size: 17px;
@@ -105,6 +104,7 @@ nav a:hover::before {
     color:#3B5998;
     background-color: white;
 }
+
 .home-list a:hover{
 
     color:red;
@@ -124,8 +124,6 @@ nav a:hover::before {
   border: 3px solid #3B5998;
   padding: 5px;
   height: 20px;
-  border-radius: 5px;
-  outline: none;
   color: #9DBFAF;
 }
 
@@ -139,9 +137,6 @@ nav a:hover::before {
   background-color: #3B5998;
   color: white;
   text-align: center;
- 
-  border-radius: 5px;
-  cursor: pointer;
   font-size: 20px;
 }
 
@@ -151,7 +146,7 @@ nav a:hover::before {
   position: absolute;
   top: 35%;
   left: 60%;
-  transform:translate(-50%-50%);
+  
 }
 
 ul {
@@ -163,7 +158,6 @@ ul {
   
 #menu{
     background-color:white;
-
     overflow: hidden;
 }
 
@@ -180,10 +174,9 @@ ul {
     margin: 25px;
     width:20%;
   
-    
   }
   
-  .menu-item a{
+.menu-item a{
 
     text-decoration:none;
     color:#3B5998;
@@ -193,7 +186,7 @@ ul {
 
   }
 
-  .menu-item a:hover{
+.menu-item a:hover{
     color: red;
     text-decoration: underline;
   }
@@ -213,19 +206,19 @@ ul {
     
     box-sizing: border-box;
     font-size: 20px;
-    height: 500px;
+    height: 400px;
     margin-right: 55px;
     margin-left: 20px;
     width:28%;
   
   }
 
-  .short-item a{
+.short-item a{
 
     text-decoration:none;
     color:#3B5998;
     font-family: fantasy;
-    font-size: 26px;
+    font-size: 28px;
 
   }
 
@@ -271,18 +264,18 @@ h3{
     
     box-sizing: border-box;
     font-size: 20px;
-    height: 400px;
+    height: 370px;
     margin: 30px;
     width:25%;
   
   }
-  .news-item:nth-child(7){
+.news-item:nth-child(7){
 
     height:20px;
   }
   
 
-  .news-item a{
+.news-item a{
 
     text-decoration:none;
     color:#3B5998;
@@ -291,12 +284,12 @@ h3{
 
   }
 
-  .news-item a:hover{
+.news-item a:hover{
     color: red;
     text-decoration:underline;
   }
 
- .contact-item a{
+.contact-item a{
 
     text-decoration:none;
 
@@ -326,34 +319,37 @@ h3{
     
   
   }
-  h4{
+  
+h4{
       font-size: 40px;
       color:#3B5998;
   }
-  h5{
+
+
+h5{
 
     font-size: 40px;
     color: rgb(143, 24, 24)
   }
 
-  .contact-p{
+.contact-p{
    font-size:25px;
    color: black;
   }
 
 
-  .contact-item:hover{
+.contact-item:hover{
 
     box-shadow: 0px 0px 5px 3px red;
     
   }
 
-   #white{
+#white{
 
     background-color: white;
    }
 
-  #Service{
+#Service{
 
     overflow: hidden;
     float: left;
@@ -373,8 +369,7 @@ h3{
   }
 
 
-
-  .Service-item a{
+.Service-item a{
 
     text-decoration:none;
     color:#3B5998;
@@ -383,7 +378,7 @@ h3{
 
   }
 
-  .Service-item a:hover{
+.Service-item a:hover{
     color: red;
     text-decoration: underline;
   }
